@@ -1,4 +1,4 @@
-# AquaCraft
+# Aqua Craft: Ship 3D modeling
 ---
 
 ### Description:
